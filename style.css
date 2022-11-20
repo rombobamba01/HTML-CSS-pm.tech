@@ -1,0 +1,12 @@
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 2 cm;
+    table-layout: auto;
+    text-align: center;
+    border-color: red;    
+  }
+  .first{ 
+    font-weight: bold;
+
+  }
